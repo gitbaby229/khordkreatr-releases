@@ -1,7 +1,7 @@
 {
   "app": "KhordKreatr",
-  "version": "1.0.0",
-  "page": "https://github.com/gitbaby229/khordkreatr-releases/releases/tag/v1.0.0",
-  "windows": { "installer": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.0/KhordKreatr-1.0.0-Windows-Setup.exe", "vst3": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.0/KhordKreatr-1.0.0-Windows-VST3.zip" },
-  "mac": { "vst3": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.0/KhordKreatr-1.0.0-Mac-VST3.zip", "app": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.0/KhordKreatr-1.0.0-Mac-App.zip" }
+  "version": "1.0.1",
+  "page": "https://github.com/gitbaby229/khordkreatr-releases/releases/tag/v1.0.1",
+  "windows": { "installer": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.1/KhordKreatr-1.0.1-Windows-Setup.exe", "vst3": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.1/KhordKreatr-1.0.1-Windows-VST3.zip" },
+  "mac": { "vst3": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.1/KhordKreatr-1.0.1-Mac-VST3.zip", "app": "https://github.com/gitbaby229/khordkreatr-releases/releases/download/v1.0.1/KhordKreatr-1.0.1-Mac-App.zip" }
 }
